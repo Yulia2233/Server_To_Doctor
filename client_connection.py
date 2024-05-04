@@ -2,7 +2,6 @@ from time import sleep
 import mysql.connector
 from readdata import *
 from setting import *
-
 def handle_client_connection_blood_pressure(client_socket):
     db_conn = None
     cursor = None
