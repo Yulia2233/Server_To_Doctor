@@ -1,7 +1,6 @@
 import multiprocessing as mlp
 from allprocess import *
-
-
+from setting import *
 
 
 if __name__ == '__main__':

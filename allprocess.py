@@ -1,9 +1,6 @@
 from client_connection import *
 import socket
 import threading
-from setting import *
-
-
 
 
 def start_server_tempature(host, port):
